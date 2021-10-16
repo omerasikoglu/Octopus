@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab9b8bed4f921c9458f6043064e8bd4f, type: 3}
+  m_Name: New3
+  m_EditorClassIdentifier: 
+  nodes:
+  - uniqueID: 24cb2188-a644-4575-9720-e54a34e4c3b9
+    text: Hasan
+    children:
+    - c40f7a0f-abb2-4608-8a50-d05559cae218
+    - 3a9d869e-4c99-41a5-8aea-f19dbcd2567f
+    rect:
+      serializedVersion: 2
+      x: -17
+      y: 27
+      width: 200
+      height: 100
+  - uniqueID: c40f7a0f-abb2-4608-8a50-d05559cae218
+    text: 
+    children: []
+    rect:
+      serializedVersion: 2
+      x: 307
+      y: 5
+      width: 200
+      height: 100
+  - uniqueID: 3a9d869e-4c99-41a5-8aea-f19dbcd2567f
+    text: 
+    children:
+    - 95881037-f13b-4773-bd3f-2aefed2d19fe
+    - 09a82ae1-4e3c-46bd-9acd-374709423ff9
+    rect:
+      serializedVersion: 2
+      x: 175
+      y: 174
+      width: 200
+      height: 100
+  - uniqueID: 95881037-f13b-4773-bd3f-2aefed2d19fe
+    text: 
+    children: []
+    rect:
+      serializedVersion: 2
+      x: 393
+      y: 114
+      width: 200
+      height: 100
+  - uniqueID: 09a82ae1-4e3c-46bd-9acd-374709423ff9
+    text: 
+    children: []
+    rect:
+      serializedVersion: 2
+      x: 379
+      y: 253
+      width: 200
+      height: 100

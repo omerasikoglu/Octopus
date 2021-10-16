@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: e8f94de9225ccfb47b197154217de737
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pfItemWorld: {instanceID: 0}
+  - swordSprite: {instanceID: 0}
+  - healthPotionSprite: {instanceID: 0}
+  - manaPotionSprite: {instanceID: 0}
+  - coinSprite: {instanceID: 0}
+  - medkitSprite: {instanceID: 0}
+  executionOrder: -90
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

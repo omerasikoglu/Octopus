@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5551513086572051403
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5551513086572051401}
+  - component: {fileID: 5551513086572051400}
+  m_Layer: 0
+  m_Name: WorldAssets
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5551513086572051401
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5551513086572051403}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5551513086572051400
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5551513086572051403}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8f94de9225ccfb47b197154217de737, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  pfStarWorld: {fileID: 4846754586021852530, guid: 2756710d8347e9f41aae93302c82e8c2,
+    type: 3}
+  pfItemWorld: {fileID: 99654082400429485, guid: 6225afe76ecc9f14591053b8b9b0a809,
+    type: 3}
+  swordSprite: {fileID: 21300000, guid: 15065b8e8050641418b5263de3d0725f, type: 3}
+  armorSprite: {fileID: 21300000, guid: c28d54c4733dc4fc7bedc4189f66bfbc, type: 3}
+  healthPotionSprite: {fileID: 21300000, guid: 31401acc6c6c21c47aebea796ccb17d0, type: 3}
+  manaPotionSprite: {fileID: 21300000, guid: f7924e7691e2bde46a54193842379569, type: 3}
+  energyPotionSprite: {fileID: 21300000, guid: b7d7e36f0c41c4316a6ea75d0a9321a6, type: 3}
+  coinSprite: {fileID: 21300000, guid: fcab36b3319236043871ae860f6f0edb, type: 3}
+  medkitSprite: {fileID: 21300000, guid: 75809b4962b832a45a7ad59c10b7468c, type: 3}
+  luckSprite: {fileID: 21300000, guid: 768bd451ab2124c98924895f104d3dce, type: 3}
+  swordSpriteBG: {fileID: 21300000, guid: c7ade68a31f1d4e12a57617409b6ee8a, type: 3}
+  armorSpriteBG: {fileID: 21300000, guid: 35d7e6588f1f34db1b9a5e62f4efdf77, type: 3}
+  healthPotionSpriteBG: {fileID: 21300000, guid: c7ade68a31f1d4e12a57617409b6ee8a,
+    type: 3}
+  manaPotionSpriteBG: {fileID: 21300000, guid: 35d7e6588f1f34db1b9a5e62f4efdf77, type: 3}
+  energyPotionSpriteBG: {fileID: 21300000, guid: 77f2fa5c779c34ab9ad50e39ebe0bacf,
+    type: 3}
+  coinSpriteBG: {fileID: 21300000, guid: 77f2fa5c779c34ab9ad50e39ebe0bacf, type: 3}
+  medkitSpriteBG: {fileID: 21300000, guid: dd77367546bf4433dbbb2317a935df54, type: 3}
+  luckSpriteBG: {fileID: 21300000, guid: e6eea4f7cbb9f46f79c0fe06180fa5b3, type: 3}
+  shopSwordBG: {fileID: 21300000, guid: dd77367546bf4433dbbb2317a935df54, type: 3}
+  shopArmorBG: {fileID: 21300000, guid: dd77367546bf4433dbbb2317a935df54, type: 3}
+  shopHealthPotionBG: {fileID: 21300000, guid: c7ade68a31f1d4e12a57617409b6ee8a, type: 3}
+  shopManaPotionBG: {fileID: 21300000, guid: 35d7e6588f1f34db1b9a5e62f4efdf77, type: 3}
+  shopEnergyPotionBG: {fileID: 21300000, guid: 77f2fa5c779c34ab9ad50e39ebe0bacf, type: 3}
+  shopCoinBG: {fileID: 21300000, guid: dd77367546bf4433dbbb2317a935df54, type: 3}
+  shopMedkitBG: {fileID: 21300000, guid: c7ade68a31f1d4e12a57617409b6ee8a, type: 3}
+  shopLuckBG: {fileID: 21300000, guid: dd77367546bf4433dbbb2317a935df54, type: 3}

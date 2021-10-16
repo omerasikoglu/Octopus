@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77f82fe54cc9d5d428c242d3f1802248, type: 3}
+  m_Name: Musi
+  m_EditorClassIdentifier: 
+  nameString: Musi
+  prefab: {fileID: 0}
+  sprite: {fileID: 21300000, guid: ec87391af78121b448307f236045b0ff, type: 3}
+  HealthAmountMax: 50
+  hasResourceGeneratorData: 1
+  resourceGeneratorData:
+    timerMax: 2
+    resourceType: {fileID: 11400000, guid: 9225acead0825b24e841fe05b8e70f83, type: 2}

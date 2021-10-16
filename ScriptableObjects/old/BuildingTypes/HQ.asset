@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e3894819765d7bb429b2f958e81f76bb, type: 3}
+  m_Name: HQ
+  m_EditorClassIdentifier: 
+  nameString: HQ
+  prefab: {fileID: 285230953483058475, guid: dae6822d26ce0174da87b3c3d5dae8e0, type: 3}
+  sprite: {fileID: 21300000, guid: 7030b8e3eb49e8440ae8eb3ec8b45d05, type: 3}
+  HealthAmountMax: 30
+  hasResourceGeneratorData: 1
+  resourceGeneratorData:
+    timerMax: 3
+    resourceType: {fileID: 11400000, guid: ba6e983738839974fa3f6d5b008cea93, type: 2}

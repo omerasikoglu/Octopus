@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5ade44e3374f2f5458d5b54975e8ea2b, type: 3}
+  m_Name: BlueStar
+  m_EditorClassIdentifier: 
+  nameString: BlueStar
+  sprite: {fileID: 8663732547772353584, guid: 76fa87477985a304eb813d07e8f7e50b, type: 3}
+  tooltipString: finish the stage
+  bgColor: {r: 0.031772893, g: 0.92583126, b: 0.9622642, a: 0.46666667}
+  isAchieved: 0

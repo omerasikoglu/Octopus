@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 933b637d6ef061e48820a722faba74da, type: 3}
+  m_Name: Level2
+  m_EditorClassIdentifier: 
+  sceneNumber: 2
+  requiedStarAmount: 1
+  isPlayed: 0
+  isBossLevel: 0
+  noStar: {fileID: -5806581033529393021, guid: 76fa87477985a304eb813d07e8f7e50b, type: 3}
+  starTypesList:
+  - {fileID: 11400000, guid: 5a43cf7e148b07c4d975e38f7ee39462, type: 2}
+  - {fileID: 11400000, guid: 265e09a64a0789b4ba12865295688436, type: 2}
+  - {fileID: 11400000, guid: be8b1f3f6ba07214d9b23eaaa5b1244a, type: 2}
+  achieveList: 000000

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20b35eb74e0d2014f9b2bd067368f412, type: 3}
+  m_Name: scissors
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 7763929554639582286, guid: 42a2dc09ac2f075488740e21acc1b318, type: 3}
+  nameString: Scissors
+  sprite: {fileID: 21300000, guid: 535f5474277c70a4980665b73e741772, type: 3}
+  healthAmountMax: 2
+  movementSpeed: 5
+  summoningCostAmountArray:
+  - resourceType: {fileID: 11400000, guid: ba6e983738839974fa3f6d5b008cea93, type: 2}
+    amount: 1

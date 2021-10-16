@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20b35eb74e0d2014f9b2bd067368f412, type: 3}
+  m_Name: rock
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 7763929554639582286, guid: 2ff2ffc33eabd9547a284fb915c3ecdb, type: 3}
+  nameString: Rock
+  sprite: {fileID: 21300000, guid: 65d1d9902bd4a2e43bb8898bbfc19188, type: 3}
+  healthAmountMax: 2
+  movementSpeed: 5
+  summoningCostAmountArray:
+  - resourceType: {fileID: 11400000, guid: ba6e983738839974fa3f6d5b008cea93, type: 2}
+    amount: 1
